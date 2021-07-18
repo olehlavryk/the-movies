@@ -1,0 +1,29 @@
+.movie {
+  width: 23%;
+  margin-bottom: 30px;
+  transition: all 300ms ease-in;
+}
+
+.poster {
+  width: 100%;
+  height: auto;
+
+  cursor: pointer;
+}
+
+.movie:hover {
+  transform: scale(1.02);
+}
+
+.movie-title {
+  font-size: 22px;
+  line-height: 1.4;
+  font-weight: bold;
+  margin: 0 0 10px 0;
+}
+
+.movie-overview {
+  margin-bottom: 10px;
+  font-size: 16px;
+  line-height: 1.3;
+}

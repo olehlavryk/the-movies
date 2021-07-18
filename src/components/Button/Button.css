@@ -1,0 +1,13 @@
+.theme-btn {
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-back {
+  background-color: none;
+}
